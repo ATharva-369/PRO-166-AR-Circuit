@@ -1,0 +1,11 @@
+Model Information:
+* title:	Johnny Five Robot (Short Circuit)
+* source:	https://sketchfab.com/3d-models/johnny-five-robot-short-circuit-1c927be1a400463388251b6889a9d3ab
+* author:	johny5 (https://sketchfab.com/johny5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Johnny Five Robot (Short Circuit)" (https://sketchfab.com/3d-models/johnny-five-robot-short-circuit-1c927be1a400463388251b6889a9d3ab) by johny5 (https://sketchfab.com/johny5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
